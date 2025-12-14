@@ -22,6 +22,11 @@ img {
   gap: 32px;
 }
 
+.item {
+  flex-basis: 200px;
+  text-align: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
